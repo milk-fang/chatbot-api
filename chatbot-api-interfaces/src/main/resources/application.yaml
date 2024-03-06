@@ -1,2 +1,7 @@
 server:
   port: 8090
+
+chatbot-api:
+  groupId: 48888882215428
+  cookie: zsxq_access_token=A1CAB677-9F49-DB56-FC5C-F89089356F12_2D402ADD9507D077; zsxqsessionid=e93778f75f62579ae9d755514341bb5b; abtest_env=product; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22548488254512224%22%2C%22first_id%22%3A%2218e082bde788cf-0563853b7ccdec8-78505773-2073600-18e082bde7917ac%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E5%BC%95%E8%8D%90%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%2C%22%24latest_referrer%22%3A%22https%3A%2F%2Fbugstack.cn%2F%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMThlMDgyYmRlNzg4Y2YtMDU2Mzg1M2I3Y2NkZWM4LTc4NTA1NzczLTIwNzM2MDAtMThlMDgyYmRlNzkxN2FjIiwiJGlkZW50aXR5X2xvZ2luX2lkIjoiNTQ4NDg4MjU0NTEyMjI0In0%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%22548488254512224%22%7D%2C%22%24device_id%22%3A%2218e082bde788cf-0563853b7ccdec8-78505773-2073600-18e082bde7917ac%22%7D
+  openAIKey: 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

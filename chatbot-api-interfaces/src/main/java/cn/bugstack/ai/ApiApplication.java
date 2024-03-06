@@ -1,4 +1,4 @@
-package cn.bugstack.chatbot.api;
+package cn.bugstack.ai;
 
 
 import org.springframework.boot.SpringApplication;
